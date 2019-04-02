@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "491933519496",
+    "firebase_url": "https://comicity-56e98.firebaseio.com",
+    "project_id": "comicity-56e98",
+    "storage_bucket": "comicity-56e98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491933519496:android:8cc82a89561fc0ec",
+        "android_client_info": {
+          "package_name": "jaron.comicity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491933519496-bqfqvf0vbd5hgfat3v56ip3llio5om8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jaron.comicity",
+            "certificate_hash": "e6b2c90802215af0fdeb3433b2489fbe59dca042"
+          }
+        },
+        {
+          "client_id": "491933519496-6uvldpimt7inkrkdbmteh2vm6vi947td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaitUqZuM2pdD_Reco72njSHFFoXtbR9g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491933519496-6uvldpimt7inkrkdbmteh2vm6vi947td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
