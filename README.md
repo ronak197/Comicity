@@ -1,16 +1,22 @@
 # comicity
 
-A new Flutter application.
+This is an application to read comics.
 
-## Getting Started
+This app gives the basic structure of comic reading application. Images are fetched from the firebase. Currently the app displays three comics but it can be extended further on large scale.
 
-This project is a starting point for a Flutter application.
+## General Guideline
 
-A few resources to get you started if this is your first Flutter project:
+- Internet is required to load the images from the firebase.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+- This app is build specifically for Android only.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Resources used
+
+- Adobe Xd is used to build the basic ui of this app.
+
+- 2Dimensions Nima was used to enhance the ui.
+
+## Created by
+
+Ronak Jain
+email id:- jain.ronak197@gmail.com
