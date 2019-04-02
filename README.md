@@ -2,7 +2,7 @@
 
 This is an application to read comics.
 
-This app gives the basic structure of comic reading application. Images are fetched from the firebase. Currently the app displays three comics but it can be extended further on large scale.
+This app gives the basic structure of comic reading application.
 
 ## General Guideline
 
