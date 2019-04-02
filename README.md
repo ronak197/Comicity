@@ -2,8 +2,6 @@
 
 This is an application to read comics.
 
-This app gives the basic structure of comic reading application.
-
 ## General Guideline
 
 - Internet is required to load the images from the firebase.
