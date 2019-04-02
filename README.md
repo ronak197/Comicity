@@ -19,5 +19,5 @@ This app gives the basic structure of comic reading application. Images are fetc
 ## Created by
 
 Ronak Jain
-- email id:- jain.ronak197@gmail.com
-- github Handle :- ronak197
+- Email id:- jain.ronak197@gmail.com
+- Github handle :- ronak197
